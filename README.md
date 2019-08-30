@@ -1,20 +1,17 @@
-<p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
-</p>
 <h1 align="center">Vagas</h1>
-<p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
+<p align="center">:microscope: Espaço para divulgação de vagas para frontenders.</p>
 
 # Vagas (Somente vagas de Front-End)
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
+Vagas disponíveis em https://github.com/frontend-ao/vagas/issues
 
 ### Cadastrando uma vaga
 
 1. Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
 
-Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
+Exemplo: `[Luanda] Front-End Developer na [NOME DA EMPRESA]`
 
 2. Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
@@ -29,10 +26,6 @@ Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 ### Como receber atualizações de novas vagas:
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
-### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
-
-Todas as oportunidades serão automaticamente compartilhadas no [@frontendbrvagas](https://twitter.com/frontendbrvagas).
-
 ### Outros repositórios de vagas
 
 Como esse repositório é específico para a postagem de vagas de **front-end**,
@@ -41,28 +34,12 @@ da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
-- [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
-- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
-- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
-- [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
-- [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
-- [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
-- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
-- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
+- [Vagas para desenvolvedores Back-end](https://github.com/backend-ao/vagas)
 
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
 
-## Repositórios da Front-End Brasil
+## Repositórios da Front-End Angola
 
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Me Contrata](https://github.com/frontendbr/me-contrata)
-- [Compra e Venda](https://github.com/frontendbr/compra-e-venda)
-- [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste Mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
+- [Vagas](https://github.com/frontend-ao/vagas)
