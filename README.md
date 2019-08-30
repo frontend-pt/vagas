@@ -38,7 +38,7 @@ listas onde você poderá postar sua vaga:
 
 ## Licença
 
-[MIT](/LICENSE) &copy; FrontendBR
+[MIT](/LICENSE) &copy; FrontendBR, Frontend Angola
 
 ## Repositórios da Front-End Angola
 
