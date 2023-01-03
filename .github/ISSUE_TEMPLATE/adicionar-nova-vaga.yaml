@@ -122,15 +122,11 @@ body:
     attributes:
       label: Regime
       options:
-        - label: CLT
-          required: false
-        - label: Estágio
+        - label: Contrato
           required: false
         - label: Freela
           required: false
-        - label: PJ
-          required: false
-        - label: Cooperado
+        - label: RV
           required: false
 
   - type: checkboxes
@@ -161,10 +157,10 @@ body:
     attributes:
       label: Remuneração
       options:
-        - R$ 1k - R$ 5k
-        - R$ 5k - R$ 10k
-        - R$ 10k - R$ 15k
-        - R$ 15k - R$ 20k
-        - R$ 20k+
+        - Até € 1k
+        - € 1k - € 2k
+        - € 2k - € 3k
+        - € 3k - € 5k
+        - € 5k+
     validations:
       required: false
